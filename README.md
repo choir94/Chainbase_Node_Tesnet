@@ -365,3 +365,7 @@ https://forms.gle/w9h8Su87kEnDwRMA7
 https://discord.gg/chainbase
 
 ![Screenshot_159](https://github.com/user-attachments/assets/11d73cd4-84c1-4b9d-b6d3-9ec959653656)
+
+##Join Channel TELEGRAM
+https://t.me/airdrop_node
+
