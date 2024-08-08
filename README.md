@@ -1,5 +1,6 @@
 ![Screenshot_1](https://github.com/user-attachments/assets/dd2a775b-29d0-4f60-a90b-083dd4381e29)
-
+#Diskusi Channel 
+https://t.me/airdrop_node
 # How to Setup an AVS Operator
 
 ## System Requirement
