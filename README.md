@@ -1,6 +1,11 @@
 ![Screenshot_1](https://github.com/user-attachments/assets/dd2a775b-29d0-4f60-a90b-083dd4381e29)
 #Diskusi Channel 
 https://t.me/airdrop_node
+<p align="left">
+<a href="https://t.me/airdrop_node" target="_blank">
+    <img alt="Telegram Chat" src="https://img.shields.io/endpoint?color=neon&logo=telegram&label=chat&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fairdrop_node">
+</a>
+  
 # How to Setup an AVS Operator
 
 ## System Requirement
