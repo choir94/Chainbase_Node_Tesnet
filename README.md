@@ -375,3 +375,6 @@ https://discord.gg/chainbase
 ## Support dengan join Channel TELEGRAM Bang
 https://t.me/airdrop_node
 
+## Tip
+https://trakteer.id/AirdropNode/tip
+
